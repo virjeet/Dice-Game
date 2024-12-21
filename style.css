@@ -1,0 +1,26 @@
+body{
+    background-color: bisque;
+}
+
+.container{
+    text-align: center;
+    font-size: 2rem;
+    color: deepskyblue;
+    font-family: 'Indie Flower', cursive;
+}
+
+.player{
+    text-align: center;
+    display: inline-block;
+    margin: 20px;
+}
+
+img {
+    width: 80%;
+  }
+
+footer{
+    margin-top: 40px;
+    text-align: center;
+    font-family: 'Indie Flower', cursive
+}
